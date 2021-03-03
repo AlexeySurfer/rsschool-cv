@@ -28,3 +28,8 @@ for (i=0; i<5; i++) {
   console.log(i);
 }
 ```
+
+## Education and trainning
+*	Specialist in Automated control systems in Belarusian-Russian University, Mogilev
+*	Intellectual systems training course in Peter the Great St. Petersburg Polytechnic University, Saint Petersburg 
+*	Magister degree (not graduated) in System analysis in Belarusian-Russian University, Mogilev

@@ -23,7 +23,7 @@
 *	Good knowledge to CSS Pre-Processors (SASS, LESS)
 #### *Sample JS code*
 ```
-var i;
+let i;
 for (i=0; i<5; i++) {
   console.log(i);
 }

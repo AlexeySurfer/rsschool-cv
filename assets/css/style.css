@@ -71,6 +71,7 @@ footer menu {
   list-style-type: none;
   padding-inline-start: 0;
 }
-footer menuitem {
-  padding-right: 10px;
+footer menu li {
+  display: list-item;
+  padding-right: 15px;
 }

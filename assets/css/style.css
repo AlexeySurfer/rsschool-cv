@@ -65,12 +65,12 @@ a {
   color: #0366d6;
   text-decoration: none;
 }
-footer nav {
+footer menu {
   display: flex;
   align-items: baseline;
   list-style-type: none;
+  padding-inline-start: 0;
 }
-footer nav li {
-  display: list-item;
+footer menuitem {
   padding-right: 10px;
 }

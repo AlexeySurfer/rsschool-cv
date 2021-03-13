@@ -117,7 +117,7 @@ h2 {
   margin: 0 0 50px 0;
 }
 .description .btn,
-.form .btn {
+form .btn {
   font-size: 23px;
   height: 60px;
   padding: 0 43px;
@@ -125,7 +125,7 @@ h2 {
   border: 0;
 }
 .description .btn:hover,
-.form .btn:hover {
+form .btn:hover {
   background-color: #e39128;
 }
 p {
@@ -213,12 +213,12 @@ h3 {
 .notification {
   margin: 220px 0 235px 0;
 }
-.form {
+form {
   display: flex;
   align-items: center;
   justify-content: center;
 }
-.form .btn {
+form .btn {
   border-radius: 0 5px 5px 0;
   padding: 0 35px;
 }
